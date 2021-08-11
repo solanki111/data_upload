@@ -1,0 +1,34 @@
+{
+  "client-1": {
+    "key": "key-1",
+    "secret": "secret"
+  },
+  "client-2": {
+    "key": "key-1",
+    "secret": "secret"
+  },
+  "client-3": {
+    "key": "key-1",
+    "secret": "secret"
+  },
+  "client-4": {
+    "key": "key-1",
+    "secret": "secret"
+  },
+  "client-5": {
+    "key": "key",
+    "secret": "secret"
+  },
+  "client-6": {
+    "key": "key",
+    "secret": "secret"
+  },
+  "client-7": {
+    "key": "key",
+    "secret": "secret"
+  },
+  "client-8": {
+    "key": "key-8",
+    "secret": "secret-8"
+  }
+}

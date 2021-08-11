@@ -1,0 +1,33 @@
+{
+  "HIDUU_EXEC_PATH_UNIX": "/utilities/hi-data-upload-utility-3.0/bin/./hi-data-upload-utility",
+  "UPLOAD_DATASET": "uploadDataSetFile",
+  "SYSTEM_ACC_ID": "-said",
+  "ACC_ID_KEY": "SECRET_KEY1",
+  "SYS_ACC_SECRET": "-sas",
+  "SOURCE_ID": "-sid",
+  "SECRET_KEY3": "SECRET_KEY3",
+  "HIDUU_CLIENT_MNEMONIC": "-cm",
+  "HIDUU_CLIENT_MNEM_VALUE": "cernermonitoring",
+  "HIDUU_DATASET_ID": "-dsid",
+  "EDW_DATA_SET": "RAW_ENTITY_",
+  
+  "HIDUU_SPEC_VERSION": "-sv",
+  "HIDUU_SPEC_VER_VALUE": "1",
+  "HIDUU_FILE_ID": "-fid",
+  "HIDUU_FILE_ID_VALUE": "SINGLE_FILE",
+  "HIDUU_RELEASE": "-rl",
+  "HIDUU_FILE": "-f",
+  
+  "EMAIL_USER ": "EMAIL_USER",
+  "EMAIL_PASSWORD ": "EMAIL_PASSWORD",
+  "EMAIL_BODY ": "There has been a failure while uploading the data via HIDUU.",
+  "EMAIL_FOOTER  ": "Note: Find more details in the logs attached.",
+  "EMAIL_SUBJECT ": "Error: Failure Encountered while running the data upload script!",
+  "EMAIL_RECIPIENTS": ["abhishek.singh@email.com"],
+  "EMAIL_SENDER": "abhishek.singh@email.com",
+  
+  "CTYPE ": "application/octet-stream",
+  "SMTP_HOST": "smtplb",
+  "SMTP_ERROR": "SMTP error occurred",
+  "SMTP_SPARKPOST_HOST": ""
+}
